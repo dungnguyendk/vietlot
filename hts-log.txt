@@ -1,0 +1,16 @@
+HTTrack3.49-2+htsswf+htsjava launched on Mon, 16 Jul 2018 15:12:40 at http://vietlott.vn/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" http://vietlott.vn/ -O1 "D:\private\webclone\vietlott" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+15:12:41	Warning: 	File not parsed, looks like binary: vietlott.vn/robots.txt
+15:40:29	Warning: 	file not stored in cache due to bogus state (broken size, expected 3162672 got 3058312): vietlott.vn/game/max4d/src/phaser.js
+15:40:41	Warning: 	file not stored in cache due to bogus state (broken size, expected 3162672 got 2565736): vietlott.vn/game/power/src/phaser.js
+15:48:37	Warning: 	Retry after error -4 (Incorrect length (3058312 Bytes, 3162672 expected)) at link vietlott.vn/game/max4d/src/phaser.js (from vietlott.vn/game/max4d/)
+15:48:55	Warning: 	Retry after error -4 (Incorrect length (2565736 Bytes, 3162672 expected)) at link vietlott.vn/game/power/src/phaser.js (from vietlott.vn/game/power/)
+
+HTTrack Website Copier/3.49-2 mirror complete in 38 minutes 28 seconds : 448 links scanned, 445 files written (62278495 bytes overall) [58908249 bytes received at 25523 bytes/sec], 4431960 bytes transferred using HTTP compression in 22 files, ratio 21%
+(No errors, 5 warnings, 0 messages)
