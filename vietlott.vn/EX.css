@@ -4108,6 +4108,8 @@ a[href^=tel] {
     background-color: #e4050f;
 }
 
+.modal_order .modal-dialog {width: 1045px;}
+
 .list-number {
     width: 16px;
     float: left;
